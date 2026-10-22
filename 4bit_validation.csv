@@ -1,0 +1,187 @@
+true_label,predicted_label,raw_output,latency_seconds
+yes,yes,yes.,0.6136401859998841
+no,yes,yes/no/maybe,0.4090564670000276
+maybe,yes,"yes
+
+this is",0.3656096049999178
+no,yes,yes,0.2160145679999914
+no,yes,"yes
+
+this is",0.3913582520001455
+yes,yes,yes,0.2138018620000821
+yes,yes,"yes
+
+this question",0.4788367860001017
+yes,yes,"yes
+
+this question",0.5518727889998445
+no,yes,yes,0.2538323550002133
+no,yes,"yes
+
+this question",0.44995875800009344
+no,yes,yes,0.27317472899994755
+yes,yes,"yes
+
+this question",0.49936966499990376
+no,yes,yes,0.24810569800001758
+yes,yes,yes,0.32681363699998656
+yes,yes,yes,0.2533541210000294
+no,yes,yes,0.27502370499996687
+no,yes,yes,0.24222319499995137
+yes,yes,"yes
+
+the provided",0.801026795000098
+yes,yes,yes,0.6836724350000623
+yes,yes,"yes
+
+the provided",1.336892017000082
+no,yes,yes,0.7445442480000111
+maybe,yes,yes,0.76469750199999
+maybe,yes,yes,0.47586939300003905
+maybe,yes,"yes
+
+this question",0.6331571470000199
+yes,yes,"yes
+
+the provided",0.70665189500005
+yes,yes,yes,0.4096828890001234
+no,yes,yes,0.35673284399990735
+yes,yes,"yes
+
+this is",0.6657469330000367
+maybe,yes,"yes
+
+the provided",0.5671078860000307
+yes,yes,yes,0.48685387000000446
+yes,yes,"yes
+
+this information",0.8720424680000178
+maybe,yes,yes,0.23292484300009164
+no,yes,"yes
+
+the provided",0.278018727999779
+yes,yes,"yes
+
+this is",0.2972245329999623
+yes,yes,yes,0.18665664099989954
+yes,yes,yes.,0.2881268910000472
+yes,yes,yes,0.21532329399997252
+yes,yes,"yes
+
+this is",0.3487952440000299
+no,yes,yes,0.18506638500002737
+no,yes,"yes
+
+the provided",0.3037696199999118
+maybe,no,"no
+
+this is",0.25544514400007756
+yes,yes,"yes
+
+the context",0.30080847299996094
+no,yes,yes,0.17771231599999737
+no,yes,yes,0.1900533150001138
+yes,yes,yes,0.17816091000008782
+yes,yes,yes,0.1876646000000619
+yes,yes,yes,0.1812992939999276
+no,yes,yes,0.17918198600000323
+yes,yes,"yes
+
+the provided",0.3308901379998588
+yes,yes,yes,0.2161831749999692
+yes,yes,yes,0.17435491700007333
+no,yes,yes,0.22612534099994264
+no,yes,yes,0.14871065500005898
+yes,yes,"yes
+
+the provided",0.35677982999982305
+yes,yes,yes,0.1825263119999363
+maybe,yes,"yes
+
+this question",0.353626917000156
+yes,yes,yes,0.21424397500004488
+yes,yes,"yes
+
+the provided",0.38232918200014865
+no,yes,"yes
+
+this question",0.33050775399988197
+yes,yes,"yes
+
+this is",0.3229523559998597
+yes,yes,yes,0.21479791299998396
+no,yes,"yes
+
+this evaluation",0.3309591830000045
+yes,yes,yes,0.256822646000046
+yes,yes,"yes
+
+this context",0.2643108359998223
+yes,no,no,0.15257793499995387
+no,yes,"yes
+
+this question",0.3261587320000672
+maybe,yes,yes,0.18800291200000174
+no,yes,"yes
+
+this is",0.3350046939999629
+yes,no,"no
+
+the provided",0.28346820499996284
+yes,yes,yes,0.23190186800002266
+yes,yes,yes,0.18172504099993603
+yes,yes,yes,0.17492590100005145
+no,yes,yes,0.1617008400000941
+yes,yes,"yes
+
+this is",0.3186908059999496
+yes,yes,"yes
+
+this question",0.2947987299999113
+yes,yes,"yes
+
+the provided",0.276826888999949
+no,no,"no
+
+this question",0.27069021200009047
+yes,yes,"yes
+
+this is",0.2803336870001658
+yes,yes,yes,0.21288816700007374
+yes,yes,"yes
+
+the provided",0.33537117700007
+no,yes,yes,0.1970933810000588
+no,yes,"yes
+
+this question",0.352778785000055
+no,yes,yes,0.2246067529999891
+yes,yes,"yes
+
+this is",0.32831445300007545
+yes,yes,yes,0.182096182000123
+yes,no,"no
+
+this question",0.2862156019998565
+yes,yes,"yes
+
+justification",0.2955342959999143
+no,yes,yes,0.1543475060000219
+yes,yes,yes,0.1741145900000447
+maybe,yes,yes,0.15588719400011541
+maybe,yes,"yes
+
+web-based",0.4107657970000673
+no,yes,"yes
+
+the provided",0.3463644010000735
+yes,yes,yes,0.2170530079999935
+no,yes,yes,0.1742306659998576
+no,yes,yes,0.21615297200014538
+yes,yes,yes,0.17922450099990783
+yes,yes,yes.,0.2383696570000211
+no,yes,yes,0.20477377900010652
+no,yes,"yes
+
+the provided",0.3415653269998984
+yes,yes,yes,0.17479185599995617

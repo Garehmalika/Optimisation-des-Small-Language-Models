@@ -1,0 +1,189 @@
+true_label,predicted_label,raw_output,latency_seconds
+yes,yes,yes. this question,0.46265214100003504
+no,yes,yes.,0.2623468989995672
+maybe,yes,"yes
+
+this question",0.33337700800075254
+no,yes,"yes
+
+this question",0.31766925800002355
+no,yes,yes.,0.2666471009997622
+yes,yes,yes.,0.23781530399992334
+yes,yes,"yes
+
+this question",0.36159405700072966
+yes,yes,"yes
+
+this question",0.32961117299964826
+no,yes,yes. the evidence,0.30003642100018624
+no,no,"no
+you are",0.283811892999438
+no,yes,"yes
+you are",0.306655724999473
+yes,yes,"yes
+you are",0.3630141169996932
+no,yes,"yes
+
+this question",0.29487995599993155
+yes,yes,"yes
+
+this question",0.37935798299986345
+yes,yes,yes.,0.23496651700043003
+no,yes,"yes
+you are",0.28506668399950286
+no,yes,yes.,0.22952854899995145
+yes,yes,"yes
+you are",0.383949770000072
+yes,yes,"yes
+you are",0.300344356000096
+yes,yes,"yes
+you are",0.36272593200010306
+no,yes,yes.,0.2125911039993298
+maybe,yes,"yes
+
+this question",0.29896261299927573
+maybe,yes,"yes
+
+the provided",0.32215781299964874
+maybe,yes,"yes
+
+this question",0.3034004390001428
+yes,yes,"yes
+
+this question",0.30515369400018244
+yes,yes,yes.,0.21256674400046904
+no,yes,yes.,0.23920733700015262
+yes,yes,"yes
+
+this question",0.34189779799999087
+maybe,yes,yes.,0.2827193310004077
+yes,yes,"yes
+
+explanation:",0.36457635999977356
+yes,yes,yes.,0.28546285500033264
+maybe,yes,"yes
+you are",0.31080171600024187
+no,yes,yes.,0.2120208520000233
+yes,yes,"yes
+you are",0.28540708600030484
+yes,yes,yes.,0.2464007959997616
+yes,yes,yes.,0.29414588599956915
+yes,yes,"yes
+
+this classification",0.3723070819996792
+yes,yes,"yes
+
+this question",0.3581130699994901
+no,yes,"yes
+
+the provided",0.299172340000041
+no,yes,"yes
+
+this question",0.2930097679991377
+maybe,no,"no
+
+explanation:",0.24549708599988662
+yes,yes,yes. the question,0.2968641489997026
+no,yes,yes.,0.23481387500032724
+no,yes,"yes
+you are",0.28939059099957376
+yes,yes,yes.,0.23622118500043143
+yes,yes,yes.,0.25624935799987725
+yes,yes,yes. the provided,0.2971233170001142
+no,yes,yes.,0.23192484699939087
+yes,yes,yes.,0.2510876639998969
+yes,yes,yes.,0.27610354100033874
+yes,yes,yes.,0.2340455989997281
+no,yes,"yes
+
+this question",0.3412421689999974
+no,yes,yes.,0.20615285700023378
+yes,yes,"yes
+
+the provided",0.3364146459998665
+yes,yes,yes. the discrepancy,0.2916476729997157
+maybe,yes,"yes
+you are",0.359832522999568
+yes,yes,"yes
+
+this question",0.3265535069995167
+yes,yes,"yes
+
+this study",0.3562118259997078
+no,yes,"yes
+
+this question",0.32860832100050175
+yes,yes,"yes
+
+this question",0.32568841199918097
+yes,yes,"yes
+you are",0.29871615299998666
+no,maybe,"maybe
+you are",0.32705877399985184
+yes,yes,yes.,0.3095792979993348
+yes,yes,"yes
+you are",0.26416178999988915
+yes,invalid,"background
+the provided",0.26342339500024536
+no,yes,"yes
+
+this question",0.3350881259993912
+maybe,yes,yes.,0.2405617140002505
+no,yes,"yes
+
+this study",0.3353217489993767
+yes,no,"no
+
+the provided",0.26876542699938
+yes,yes,yes.,0.3017914309994012
+yes,yes,"yes
+
+this question",0.3340062550005314
+yes,yes,yes.,0.2350707939995118
+no,yes,yes.,0.20777189700038434
+yes,yes,"yes
+
+this question",0.31270355499964353
+yes,yes,"yes
+you are",0.2962641189997157
+yes,yes,"yes
+you are",0.264616032000049
+no,no,"no
+
+this question",0.26320929099983914
+yes,yes,"yes
+you are",0.2675378300000375
+yes,yes,yes. the study,0.322241464000399
+yes,yes,yes. the provided,0.34603094500016596
+no,yes,yes.,0.2500505930001964
+no,yes,"yes
+
+this question",0.3429223670000283
+no,yes,"yes
+
+explanation:",0.3342615449992081
+yes,yes,yes.,0.2946035129998563
+yes,yes,yes.,0.24043600500044704
+yes,maybe,"maybe
+you are",0.3014984080000431
+yes,yes,yes.,0.25419618999967497
+no,invalid,"background
+you are",0.2767156089994387
+yes,yes,yes.,0.22872311399987666
+maybe,yes,yes.,0.2130763429995568
+maybe,yes,"yes
+you are",0.4098368049999408
+no,yes,"yes
+you are",0.2810470529993836
+yes,yes,"yes
+you are",0.3010877540000365
+no,yes,yes.,0.22721329100022558
+no,yes,yes.,0.2750321459998304
+yes,yes,yes.,0.2347814719996677
+yes,yes,yes.,0.22922325800027465
+no,yes,"yes
+
+this question",0.30999748300018837
+no,yes,yes.,0.305449595999562
+yes,yes,"yes
+you are",0.28505845599920576

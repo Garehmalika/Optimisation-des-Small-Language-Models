@@ -1,0 +1,301 @@
+true_label,predicted_label,raw_output,latency_seconds
+yes,yes,"yes
+
+justification",0.4660899419999396
+no,yes,"yes
+
+the provided",0.40473369599999387
+maybe,yes,"yes
+
+this is",0.6851911759999894
+no,yes,"yes
+
+the provided",0.6627656599999909
+no,yes,"yes
+
+this is",0.6353409800000236
+yes,yes,"yes
+
+the provided",0.7365573989999348
+yes,yes,"yes
+
+the provided",0.7919558750000988
+yes,yes,"yes
+
+this question",0.7926506190000282
+no,yes,"yes
+
+this classification",0.6019789859999491
+no,no,"no
+
+this question",0.7900101989999939
+no,yes,"yes
+
+the provided",0.6479660620000232
+yes,yes,"yes
+
+this question",0.5788857789999611
+no,yes,"yes
+
+this question",0.49493430500001523
+yes,yes,"yes
+
+the provided",0.6425875930000302
+yes,yes,"yes
+
+the provided",0.55951467400007
+no,yes,"yes
+
+this question",0.5495059739999988
+no,yes,"yes
+
+this question",0.4584584729999506
+yes,yes,"yes
+
+the provided",0.4773161690000052
+yes,yes,"yes
+
+the provided",0.38586915099995167
+yes,no,"no
+
+the provided",0.4658938779999744
+no,yes,"yes
+
+the provided",0.371064285999978
+maybe,yes,"yes
+
+this question",0.326221945000043
+maybe,yes,"yes
+
+the provided",0.3847197589999496
+maybe,yes,"yes
+
+this classification",0.19907392599998275
+yes,no,"no
+
+the reasoning",0.332959624999944
+yes,yes,"yes
+
+this classification",0.3227677639999911
+no,yes,"yes
+
+this is",0.34500747999993564
+yes,yes,"yes
+
+this is",0.3326175619999958
+maybe,yes,"yes
+
+the provided",0.2883323600000267
+yes,yes,"yes
+
+justification",0.40212009399999715
+yes,yes,"yes
+
+this question",0.3358728110000584
+maybe,yes,"yes
+
+this question",0.21715430400001878
+no,yes,"yes
+
+the provided",0.2968864570000278
+yes,yes,"yes
+
+this is",0.2987918640000089
+yes,yes,"yes
+
+the provided",0.26036120799994933
+yes,yes,"yes
+
+the provided",0.315535078000039
+yes,yes,"yes
+
+this classification",0.3888193760000149
+yes,yes,"yes
+
+this is",0.27906883000002836
+no,yes,"yes
+
+the provided",0.2857495780000363
+no,yes,"yes
+
+the provided",0.3668312470000501
+maybe,no,"no
+
+this classification",0.2730709539999907
+yes,yes,"yes
+
+the provided",0.3807023549999258
+no,yes,"yes
+
+the provided",0.2687109190000001
+no,yes,"yes
+
+justification",0.276067287999922
+yes,yes,"yes
+
+the provided",0.29840783899999224
+yes,yes,"yes
+
+this is",0.276777301999914
+yes,yes,"yes
+
+justification",0.2573682080000026
+no,yes,"yes
+
+this is",0.2575608160000229
+yes,yes,"yes
+
+the provided",0.3803844049999725
+yes,yes,"yes
+
+this question",0.4563132260000202
+yes,yes,"yes
+
+this is",0.5085370560000229
+no,yes,"yes
+
+the provided",0.5877375879999818
+no,yes,"yes
+
+the provided",0.5577867320000678
+yes,yes,"yes
+
+the provided",0.6114321640000071
+yes,yes,"yes
+
+this question",0.6389232490000722
+maybe,yes,"yes
+
+the context",0.34324989499998537
+yes,yes,"yes
+
+the provided",0.2762123799999472
+yes,yes,"yes
+
+the provided",0.35523626799999874
+no,yes,"yes
+
+this question",0.2796059199999945
+yes,yes,"yes
+
+this is",0.27943268799992893
+yes,yes,"yes
+
+the provided",0.27073326899994754
+no,no,"no
+
+the provided",0.290880197999968
+yes,yes,"yes
+
+this classification",0.3088682229999904
+yes,yes,"yes
+
+this classification",0.2270312200000717
+yes,no,"no
+
+the provided",0.24025774699998692
+no,yes,"yes
+
+this question",0.28525325800001156
+maybe,yes,"yes
+
+the provided",0.253410006000081
+no,yes,"yes
+
+explanation:",0.2901680239999678
+yes,no,"no
+
+the provided",0.32522203899998203
+yes,yes,"yes
+
+justification",0.303006632000006
+yes,yes,"yes
+
+this is",0.24548247300003823
+yes,yes,"yes
+
+this classification",0.2606163220000326
+no,yes,"yes
+
+the provided",0.26828587700003936
+yes,yes,"yes
+
+this is",0.28538165600002685
+yes,yes,"yes
+
+this classification",0.2567979609999611
+yes,yes,"yes
+
+the provided",0.2956074080000235
+no,yes,"yes
+
+this question",0.3179135339998993
+yes,yes,"yes
+
+this is",0.29790387700006704
+yes,yes,"yes
+
+the provided",0.3528643500000044
+yes,yes,"yes
+
+the provided",0.3873600649999389
+no,yes,"yes
+
+the provided",0.38723199500009287
+no,yes,"yes
+
+this question",0.4191414680000207
+no,yes,"yes
+
+explanation:",0.4682617549999577
+yes,yes,"yes
+
+this is",0.31951066099998116
+yes,yes,"yes
+
+the provided",0.3907405680000693
+yes,no,"no
+
+this question",0.3151621920000025
+yes,yes,"yes
+
+justification",0.3951677270000573
+no,yes,"yes
+
+justification",0.28083902399998806
+yes,yes,"yes
+
+the provided",0.44174672400004056
+maybe,yes,"yes
+
+this classification",0.41368598299993664
+maybe,yes,"yes
+
+justification",0.4776775269999689
+no,yes,"yes
+
+the provided",0.43981964300007803
+yes,yes,"yes
+
+this question",0.4418102889999318
+no,yes,"yes
+
+this classification",0.33610536599996976
+no,yes,"yes
+
+the provided",0.40654264499994497
+yes,yes,"yes
+
+the provided",0.5138056080000979
+yes,yes,"yes
+
+the provided",0.4657873470000595
+no,yes,"yes
+
+this question",0.39679249000005257
+no,yes,"yes
+
+the provided",0.505111071999977
+yes,yes,"yes
+
+this is",0.338209509999956

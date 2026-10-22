@@ -1,0 +1,13 @@
+{
+  "dataset": "qiaojin/PubMedQA",
+  "configuration": "pqa_labeled",
+  "seed": 42,
+  "train_fraction": 0.7,
+  "validation_fraction": 0.1,
+  "test_fraction": 0.2,
+  "target_column": "final_decision",
+  "primary_metrics": [
+    "accuracy",
+    "macro_f1"
+  ]
+}
