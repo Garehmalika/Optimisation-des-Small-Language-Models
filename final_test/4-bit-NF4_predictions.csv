@@ -1,0 +1,390 @@
+true_label,predicted_label,raw_output,latency_seconds
+no,maybe,"maybe
+you are",0.3882927919994472
+no,yes,yes.,0.3330046789997141
+yes,yes,yes.,0.25313308400018286
+yes,yes,yes.,0.2870414779999919
+yes,yes,yes.,0.23930343099982565
+no,yes,"yes
+
+this question",0.329722307999873
+yes,yes,yes.,0.20982335900043836
+yes,yes,"yes
+
+this question",0.34066546200028824
+yes,yes,yes. the provided,0.26484963500024605
+yes,yes,yes. this classification,0.38123605999953725
+maybe,yes,yes. the provided,0.26157529699958104
+yes,yes,"yes
+you are",0.29651656900023227
+yes,yes,yes.,0.2226710599998114
+yes,yes,"yes
+you are",0.33661599699917133
+no,yes,"yes
+
+this question",0.30173735599964857
+yes,yes,yes.,0.24599909499920614
+maybe,yes,yes. this question,0.33588771899940184
+yes,yes,yes. this study,0.36432558599972253
+no,yes,"yes
+
+this question",0.30043474000012793
+yes,yes,yes.,0.23844108400044206
+no,yes,"yes
+
+this question",0.3436430729998392
+yes,yes,yes.,0.24232934599967848
+maybe,yes,yes.,0.2565563229991312
+no,yes,"yes
+you are",0.2856774720003159
+no,yes,"yes
+you are",0.293480157999511
+yes,yes,yes.,0.21438017299988132
+no,yes,yes. this question,0.36948565100010455
+no,yes,"yes
+
+this question",0.29902617300012935
+yes,yes,yes. the provided,0.34155672500037326
+no,yes,"yes
+
+this question",0.3136354670004948
+yes,no,"no
+
+the provided",0.28943519899985404
+yes,yes,yes.,0.24892051799997716
+no,yes,"yes
+
+this question",0.29700471600062883
+maybe,yes,"yes
+
+this question",0.3021810829995957
+no,yes,"yes
+you are",0.2917005749995951
+maybe,yes,"yes
+
+this question",0.29069570599949657
+no,yes,yes. the study,0.3210578419993908
+yes,yes,"yes
+you are",0.4084580829994593
+no,yes,"yes
+you are",0.29874004800058174
+maybe,yes,yes.,0.2884614110007533
+no,yes,yes label: no,0.35403245499946934
+no,yes,"yes
+you are",0.3006861949997983
+yes,yes,yes. this question,0.36948510599995643
+maybe,yes,yes.,0.24425811399942177
+no,yes,"yes
+
+this question",0.2920347210001637
+no,invalid,"background
+you are",0.3045403480000459
+maybe,yes,"yes
+
+this question",0.2943168390002029
+no,yes,yes. the provided,0.26523904699934064
+yes,yes,"yes
+you are",0.34390737900048407
+yes,yes,yes.,0.2601236020000215
+yes,yes,"yes
+
+this question",0.34573705999991944
+yes,yes,yes.,0.3237195050005539
+yes,yes,"yes
+you are",0.38441387199964083
+yes,invalid,"background
+you are",0.329121560999738
+yes,yes,yes.,0.2888595439999335
+maybe,yes,yes. the study,0.35187309499997355
+yes,yes,yes. the provided,0.3050422690002961
+no,yes,"yes
+you are",0.26737329100069473
+yes,yes,"yes
+
+this question",0.4169161150002765
+no,yes,"yes
+
+this question",0.29769490499984386
+no,yes,"yes
+
+this question",0.31188255999950343
+no,yes,"yes
+
+this question",0.3374125999998796
+no,yes,"yes
+
+this question",0.3437866770000255
+no,yes,"yes
+
+this question",0.2923761470001409
+yes,yes,yes.,0.2531627579992346
+yes,yes,yes.,0.26677958000072977
+no,no,"no
+
+the provided",0.308752832999744
+no,invalid,"background
+you are",0.2766130460004206
+no,yes,yes label: no,0.293308985999829
+no,yes,yes.,0.23857263199988665
+no,yes,"yes
+
+this question",0.38902130299993587
+yes,yes,"yes
+
+this question",0.29839347600045585
+no,yes,"yes
+
+this question",0.31748775399955775
+no,maybe,"maybe
+you are",0.358326942999156
+yes,yes,"yes
+
+this question",0.3013367619996643
+no,yes,yes.,0.20519857199997205
+yes,yes,"yes
+
+this question",0.30112000000008265
+yes,yes,yes. this is,0.3434962749997794
+no,yes,"yes
+
+this question",0.34720400599962886
+no,yes,"yes
+
+the provided",0.3294742320003934
+maybe,yes,"yes
+you are",0.31056496600012906
+yes,yes,yes.,0.20815822100030346
+yes,yes,yes. the question,0.3000693919993864
+maybe,yes,"yes
+you are",0.38184646399986377
+no,yes,"yes
+you are",0.3509149809997325
+no,maybe,"maybe
+you are",0.27971838299981755
+yes,yes,"yes
+you are",0.3012738330007778
+maybe,maybe,"maybe
+
+explanation:",0.32792031899953145
+yes,yes,yes.,0.24711141900024813
+yes,yes,"yes
+you are",0.3538625889996183
+yes,yes,yes. the provided,0.342744964999838
+yes,yes,"yes
+
+this classification",0.2740080730000045
+yes,yes,"yes
+
+this question",0.3038188470000023
+yes,yes,yes. the study,0.3376289870002438
+yes,yes,"yes
+
+this question",0.26351054499991733
+yes,yes,yes.,0.30364573699989705
+maybe,yes,"yes
+
+the provided",0.4331273190000502
+yes,yes,yes. the provided,0.26265252899975167
+yes,yes,yes.,0.2379987570002413
+no,yes,"yes
+you are",0.3023745239997879
+yes,yes,"yes
+you are",0.2877864199999749
+no,yes,yes. the provided,0.27839600700008305
+no,yes,"yes
+
+this question",0.32042918000024656
+yes,yes,yes.,0.28322380899953714
+yes,yes,yes. this question,0.30060231700008444
+yes,yes,"yes
+
+this question",0.3393173550002757
+yes,yes,"yes
+
+the provided",0.34361769999941316
+yes,yes,"yes
+
+this question",0.29718868100007967
+yes,yes,yes. the provided,0.33087013099975593
+yes,yes,"yes
+
+this question",0.3462030420005249
+yes,yes,"yes
+
+this question",0.33166075899953285
+yes,yes,yes. the study,0.295090681000147
+yes,yes,yes.,0.2476041410000107
+yes,yes,"yes
+
+explanation:",0.3268802610000421
+yes,yes,"yes
+
+this question",0.32816049699977157
+yes,yes,yes. the study,0.34276523100015766
+no,yes,"yes
+
+this question",0.37175351699988823
+no,yes,"yes
+
+this question",0.3118461859994568
+no,yes,"yes
+you are",0.30255224799930147
+yes,yes,yes.,0.23203801199997542
+yes,yes,yes. the provided,0.27411259100063035
+yes,yes,"yes
+you are",0.3982831000002989
+yes,yes,yes.,0.2517113720005
+no,yes,"yes
+
+this question",0.2849814080000215
+no,yes,yes.,0.25016204200073844
+no,yes,yes. classification based,0.3623170949995256
+yes,yes,"yes
+you are",0.2986010250006075
+yes,yes,"yes
+
+this question",0.3522480940000605
+maybe,invalid,as a measure to,0.4922449349996896
+no,yes,"yes
+you are",0.28563741400012077
+maybe,yes,"yes
+
+the provided",0.34945503500057384
+yes,yes,"yes
+you are",0.3622087029998511
+yes,yes,yes.,0.2802393129995835
+no,yes,"yes
+you are",0.39693202299986297
+no,yes,"yes
+
+the provided",0.3681149860003643
+yes,yes,"yes
+
+this question",0.3064725140002338
+yes,yes,"yes
+you are",0.290755024999271
+yes,yes,yes.,0.3133566679998694
+no,yes,yes.,0.21362629499981267
+maybe,yes,"yes
+
+this question",0.29814785300004587
+yes,yes,"yes
+you are",0.3377424720001727
+yes,yes,"yes
+you are",0.3066290440001467
+yes,yes,"yes
+
+this question",0.38247405200036155
+yes,invalid,"background
+you are",0.25975765399925876
+yes,yes,"yes
+
+the given",0.37894899699949747
+yes,yes,yes.,0.18953122999937477
+no,yes,"yes
+
+this question",0.33367953400011174
+no,yes,"yes
+
+this study",0.3607239339999069
+yes,yes,"yes
+
+this question",0.3782736709999881
+yes,maybe,"maybe
+
+the provided",0.3388213739999628
+yes,yes,"yes
+you are",0.38391254199996183
+yes,yes,"yes
+
+this question",0.34120734599946445
+maybe,yes,yes.,0.3139512340003421
+yes,yes,"yes
+you are",0.3116137859997252
+yes,yes,"yes
+
+this question",0.38000767700032156
+yes,yes,yes.,0.24696185999982845
+yes,yes,yes.,0.2495846209994852
+yes,yes,"yes
+you are",0.3131371279996529
+yes,yes,"yes
+you are",0.2971859380004389
+yes,yes,yes.,0.21627566999995906
+yes,yes,"yes
+you are",0.32010700899991207
+maybe,no,"no
+
+the provided",0.3837688359999447
+yes,yes,yes.,0.2877706900007979
+no,yes,"yes
+
+this question",0.2903777049996279
+no,maybe,maybe,0.22625020999930712
+yes,yes,yes. this question,0.3137486790001276
+no,yes,"yes
+
+the provided",0.3566112789994804
+yes,yes,"yes
+
+explanation:",0.3370538070003022
+yes,yes,yes.,0.2539277919995584
+yes,yes,yes. the provided,0.3797442830000364
+maybe,yes,"yes
+you are",0.37850656200043886
+yes,yes,"yes
+you are",0.29606809100005194
+maybe,yes,"yes
+
+this question",0.31846764699912455
+yes,yes,"yes
+
+this question",0.3433412819995283
+no,yes,"yes
+
+this question",0.30861915399964346
+no,invalid,"background
+you are",0.2750137389994052
+maybe,yes,yes. the provided,0.3817493810001906
+yes,yes,yes. this classification,0.26440783199996076
+no,yes,yes.,0.30074264500035497
+maybe,yes,"yes
+
+explanation:",0.36003473500022665
+no,yes,yes label: no,0.31470917200022086
+yes,yes,yes.,0.29056454300007317
+yes,yes,yes.,0.2443361730001925
+no,yes,"yes
+
+this question",0.36140991100000974
+yes,yes,"yes
+you are",0.3437185420007154
+yes,yes,yes.,0.32990204699945025
+no,yes,yes.,0.24849881199952506
+yes,yes,"yes
+
+this question",0.28729582100004336
+yes,yes,yes.,0.24438275000011345
+yes,invalid,"background
+you are",0.3362533350000376
+no,yes,yes.,0.21971251500053768
+yes,yes,"yes
+
+this question",0.29354347699973005
+yes,invalid,"background
+you are",0.26588143200024206
+no,yes,"yes
+
+the provided",0.3669646560001638
+no,yes,yes/no/ maybe,0.3523250670004927
+yes,yes,"yes
+
+this question",0.35546817499925965
+no,yes,yes. this classification,0.37184943900047074
+no,yes,"yes
+
+this question",0.35015241099972627
+yes,yes,"yes
+
+this question",0.3466476909998164
+yes,yes,yes.,0.3434273510001731
